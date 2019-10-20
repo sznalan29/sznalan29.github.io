@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>design pattern</title>
+    <url>/2019/10/20/05.design-pattern/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>基础知识</category>
+      </categories>
+      <tags>
+        <tag>design_pattern</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>leecode</title>
+    <url>/2019/10/20/04.leecode/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>练习</category>
+      </categories>
+      <tags>
+        <tag>leecode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo</title>
+    <url>/2019/10/20/02.hexo/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>interview</title>
+    <url>/2019/10/20/03.interview/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>note</tag>
+        <tag>interview</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>好好学习 天天向上</title>
+    <url>/2019/10/19/01.hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+
+<div class="note ">
+            <p>note标签</p>
+          </div>
+
+<div class="note default">
+            <p>default</p>
+          </div>
+
+<div class="note primary">
+            <p>primary</p>
+          </div>
+
+<div class="note info">
+            <p>info</p>
+          </div>
+
+<div class="note success">
+            <p>success</p>
+          </div>
+
+<div class="note warning">
+            <p>warning</p>
+          </div>
+
+<div class="note danger">
+            <p>danger</p>
+          </div>
+
+<div class="note no-icon">
+            <p>no-icon</p><div class="note ">            <p>可以多层嵌套</p>          </div>
+          </div>
+
+<blockquote class="blockquote-center"><p>有序表、无序表</p>
+</blockquote>
+<p>有序表、无序表</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>note</tag>
+      </tags>
+  </entry>
+</search>
